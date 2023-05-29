@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: aquamarine;
+  }
+  
+  #app {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  #pdfFile {
+    width: 100%;
+  }
+  
+  #convertButton {
+    margin-top: 10px;
+  }
+  
+  #output {
+    margin-top: 10px;
+  }
